@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+.image-container img {
+    max-width: 20%;
+    margin-bottom: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
+    height: auto;
+    float: right;
+
+      
+}
+
+

@@ -1,0 +1,36 @@
+.title {
+  display: flex;
+  padding: 100px;
+  justify-content: center;
+  font-size: 3em;
+  color: rgb(0, 0, 0);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* 링크 들어가도 색상 변하지 않게! */
+  color: inherit;
+  text-decoration-line: none;
+}
+
+.a {
+  display: block;
+  margin: auto;
+  color: inherit;
+  text-decoration-line: none;
+}
+
+a:visited {
+  color: inherit;
+  text-decoration-line: none;
+}
+
+a:focus,
+a:hover {
+  color: rgb(0, 100, 180);
+}
+
+.container {
+  text-align: center;
+}
+
+.image-container{
+  text-align: center;
+}
